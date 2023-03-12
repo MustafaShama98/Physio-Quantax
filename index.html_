@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+ <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<title>New hosting account landing page</title>
+<style type="text/css">
+html {   
+  background: url(http://www.livedns.co.il/images/underconstruction/bg.jpg) no-repeat center center fixed;   
+  -webkit-background-size: cover;  
+  -moz-background-size: cover;  
+  -o-background-size: cover;  
+  background-size: cover;  
+  -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.livedns.co.il/images/underconstruction/bg.jpg', sizingMethod='scale')";  
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.livedns.co.il/images/underconstruction/bg.jpg', sizingMethod='scale');  
+}
+</style>
+</head>
+<body dir="rtl" style="padding:0px; margin:250px; font-family:Arial;"><center><span style="color:White; font-size:30px;">הגעת לדף 'תחת בניה' שנוצר אוטומטית על ידי LiveDns עבור חשבון אחסון חדש.</span><br /><br /><span style="color:White; font-size:15px;">אתר זה מאוחסן על ידי &nbsp;<a href="http://www.livedns.co.il" style="color:White;">LiveDns אחסון אתרים</a></span></center></body></html>

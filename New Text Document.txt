@@ -1,0 +1,3 @@
+@media min-width 600px // under 600px no effect
+
+@media max-width 600px // under 600px there is effect

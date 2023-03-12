@@ -1,0 +1,39 @@
+.u-section-1 {background-image: none}
+.u-section-1 .u-sheet-1 {min-height: 500px}
+.u-section-1 .u-slider-1 {width: 1140px; margin-top: 63px; margin-bottom: 63px; min-height: 375px}
+.u-section-1 .u-carousel-indicators-1 {position: absolute; bottom: 10px}
+.u-section-1 .u-container-layout-1 {padding: 30px 50px}
+.u-section-1 .u-text-1 {font-weight: 700; font-size: 2.25rem; margin: 0 auto}
+.u-section-1 .u-text-2 {width: 527px; margin: 20px auto 0}
+.u-section-1 .u-text-3 {margin-left: auto; margin-right: auto; text-transform: uppercase; font-weight: 300; letter-spacing: 2px}
+.u-section-1 .u-container-layout-2 {padding: 30px}
+.u-section-1 .u-text-4 {font-weight: 700; font-size: 2.25rem; width: 273px; margin: 0 auto}
+.u-section-1 .u-text-5 {width: 527px; margin: 20px auto 0}
+.u-section-1 .u-text-6 {margin-left: auto; margin-right: auto; text-transform: uppercase; font-weight: 300; letter-spacing: 2px}
+.u-section-1 .u-carousel-control-1 {width: 50px; height: 50px; left: calc(((100% - 1140px) / 2)  + 486px); top: auto; position: absolute; right: auto; bottom: 53px}
+.u-section-1 .u-carousel-control-2 {width: 50px; height: 50px; left: auto; top: auto; position: absolute; right: calc(((100% - 1140px) / 2)  + 491px); bottom: 53px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-slider-1 {width: 940px}
+.u-section-1 .u-carousel-control-1 {left: calc(((100% - 940px) / 2)  + 386px)}
+.u-section-1 .u-carousel-control-2 {right: calc(((100% - 940px) / 2)  + 391px)} }
+
+@media (max-width: 991px){ .u-section-1 .u-slider-1 {width: 720px}
+.u-section-1 .u-container-layout-1 {padding-left: 30px; padding-right: 30px}
+.u-section-1 .u-carousel-control-1 {left: calc(((100% - 720px) / 2)  + 276px)}
+.u-section-1 .u-carousel-control-2 {right: calc(((100% - 720px) / 2)  + 281px)} }
+
+@media (max-width: 767px){ .u-section-1 .u-slider-1 {width: 540px}
+.u-section-1 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-text-2 {width: 520px}
+.u-section-1 .u-container-layout-2 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-text-5 {width: 520px}
+.u-section-1 .u-carousel-control-1 {left: calc(((100% - 540px) / 2)  + 186px)}
+.u-section-1 .u-carousel-control-2 {right: calc(((100% - 540px) / 2)  + 191px)} }
+
+@media (max-width: 575px){ .u-section-1 .u-slider-1 {width: 340px}
+.u-section-1 .u-text-1 {font-size: 1.5rem}
+.u-section-1 .u-text-2 {width: 320px}
+.u-section-1 .u-text-4 {font-size: 1.5rem}
+.u-section-1 .u-text-5 {width: 320px}
+.u-section-1 .u-carousel-control-1 {left: calc(((100% - 340px) / 2)  + 86px)}
+.u-section-1 .u-carousel-control-2 {right: calc(((100% - 340px) / 2)  + 91px)} }
